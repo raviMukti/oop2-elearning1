@@ -8,6 +8,7 @@
         <module>programgambar</module>
         <module>programsuara</module>
         <module>programcampursari</module>
+        <module>appletmousekeylistener</module>
     </modules>
 
     <!--  Configuration for Netbeans  -->
